@@ -27,6 +27,7 @@ extern "C" {
 #define HAL_STORAGE_ID_PRIVATE_KEY      5
 #define HAL_STORAGE_ID_PUBLIC_KEY       6
 #define HAL_STORAGE_ID_FOREIGN_KEY      7
+#define HAL_STORAGE_ID_CONFIG_FLAG	8
 
 #define CONFIG_SIZE_UNITY		28
 
